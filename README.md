@@ -1,8 +1,8 @@
-# Rishabh_Puthran_FullStack-22BTRDC065-
+
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/61190d55-0c9e-40f0-a061-0c3a943227ec" />
 
-A full-stack project by **Rishabh Puthran (22BTRDC065)** demonstrating frontend and backend integration using modern web technologies.
+A full-stack project by **Rishabh Puthran** demonstrating frontend and backend integration using modern web technologies.
 
 ---
 
